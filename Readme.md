@@ -1,6 +1,6 @@
 # FirstAPI
 
-<img src="PetShop2021.gif" alt="exemplo imagem">
+<img src="imagem-readme.png" alt="exemplo imagem">
 
 > Projeto desenvolvido para demonstrar meu conhecimento em API REST em .NET Core. O Projeto foi desenvolvido em .NET Core 5;
 

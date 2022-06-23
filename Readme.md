@@ -27,5 +27,3 @@ Produto:
 ## 📝 Licença
 
 Esse projeto não está sob licença, podendo ser utilizado como objeto de estudo. Projeto para demonstração de conhecimento em .NET Core WebAPI REST.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
